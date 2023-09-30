@@ -3,10 +3,10 @@
 
 # striped-hammer-7479
 
-BadaBazar.com is an  application which is used by admin and their Customer for online shopping 
-This application will help Customer to buy the products and view order details.
-Customer can register themselves and login. Add product to the cart and purchase it .
-This application will help Admin to search Product list ,add new products ,remove products and update products.
+BadaBazar.com is an  application that is used by admin and their Customer for online shopping 
+This application will help Customers to buy the products and view order details.
+Customers can register themselves and log in. Add product to the cart and purchase it.
+This application will help Admin to search the Product list, add new products, remove products, and update products.
 
 # ER-Diagram:-
 
@@ -56,8 +56,8 @@ This application will help Admin to search Product list ,add new products ,remov
 
 # Team Members
 
-- fw20_0405 - Kumar Sanu
-- fw18_0214 - Chirumalla Rakesh
-- fw19_0599 - Rahul Somase
-- fw19_0784 - Sadanand Mare
-- fw19_1158 - Pradeep Basavaraj Kase
+ - Kumar Sanu
+ - Chirumalla Rakesh
+ - Rahul Somase
+ - Sadanand Mare
+ - Pradeep Basavaraj Kase
